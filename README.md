@@ -13,7 +13,7 @@ We compared multiple clustering algorithms—**K-Means**, **Agglomerative Cluste
   ```bash
   pip install -r requirements.txt
   ```
-- **Dataset**: [Mall Customers Dataset]([https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial](https://www.kaggle.com/code/jeeelsheikh/clustering-analysis-on-mall-customers?select=Mall_Customers.csv))  
+- **Dataset**: [Mall Customers Dataset](https://www.kaggle.com/code/jeeelsheikh/clustering-analysis-on-mall-customers?select=Mall_Customers.csv)
 - **References**:
   - [Kaggle Clustering Tutorial](https://www.kaggle.com/code/jeeelsheikh/clustering-analysis-on-mall-customers?select=Mall_Customers.csv)
   - [Plotly Documentation](https://plotly.com/python/)
